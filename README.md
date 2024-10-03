@@ -24,7 +24,7 @@ You can install these libraries using pip:
 ```bash
 pip install pyotp qrcode[pil]
 
-'''
+```
 # How to Use
 1- Run the software. 
 2- In the "Code Name" field, enter your code name.
