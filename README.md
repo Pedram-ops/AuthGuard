@@ -23,7 +23,7 @@ You can install these libraries using pip:
 
 ```bash
 pip install pyotp qrcode[pil]
-
+```
 ```
 # How to Use
 1- Run the software. 
@@ -32,6 +32,7 @@ pip install pyotp qrcode[pil]
 4- Click the "Register" button.
 5- The generated QR Code can be scanned or the key can be entered into your authentication app.
 6- One-time passwords (OTP) for your account will be generated automatically.
+```
 
 # Contributing
 If you would like to contribute to the development of this project, please follow these steps:
