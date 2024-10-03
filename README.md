@@ -46,9 +46,12 @@ This project is licensed under the MIT License. Please see the LICENSE file for 
 
 # Contact
 For any questions or suggestions, feel free to reach out to me:
+
+Email:
 ```
-Email: bahloolip@gmail.com
+bahloolip@gmail.com
 ```
+GitHub:
 ```
-GitHub: Pedram-Ops
+Pedram-Ops
 ```
