@@ -1,5 +1,5 @@
 # How to Use
-1- Run the software.
+1- Run the software. 
 2- In the "Code Name" field, enter your code name.
 3- In the "Your Key" field, enter your secret key.
 4- Click the "Register" button.
